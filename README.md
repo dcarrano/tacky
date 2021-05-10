@@ -29,9 +29,9 @@ You can use CTRL-TAB to switch between the "Improvements" and "Districts" menus 
 
 Selecting a district type will send to _Civilization 6_ the name of the district (perhaps abbreviated), followed by a space, a dash, and another space. For example, if you choose an entertainment complex, the program will send the string "EntCom - ". You can then fill in the name of the associated city before entering.
 
-If an improvement is selected and that improvement has no options, then its name will be sent and immediately entered. For instance, if you select "Lumber Mill", that is simply entered, since lumber mills have no additional options.
+If an improvement is selected and that improvement has no options, then its name will be sent and immediately entered. For example, if you select "Lumber Mill", that is simply entered, since lumber mills have no additional options.
 
-If an improvement is selected and that improvement contains further options, a submenu with the appropriate options will appear. Again, you can click the image, click the name, or press the shortcut key to select the option. Once you do so, a string containing both the improvement and the option will be sent and immediately entered. e.g., if you select "Camp" and then "Deer", the string "Camp - Deer" will be sent and entered.
+If an improvement is selected and that improvement contains further options, a submenu with the appropriate options will appear. Again, you can click the image, click the name, or press the shortcut key to select the option. Once you do so, a string containing both the improvement and the option will be sent and immediately entered. For example, if you select "Camp" and then "Deer", the string "Camp - Deer" will be sent and entered.
 
 ![Image of Tacky Submenu](https://i.imgur.com/V3gJh42.jpg)
 
