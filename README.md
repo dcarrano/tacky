@@ -12,9 +12,9 @@ TL; DR: While _Civilization 6_ is running, press CTRL-SHIFT-T to bring up a menu
 <h1>What Tacky Does</h1>
 
 Before using Tacky to name a tack, make sure you've done the following in _Civilization 6_:
-1. Go to the tack menu, select "Add Tack", and choose the location
-1. In the resulting "Edit Map Tack" menu, select the icon you want for the tack
-1. In the "Edit Map Tack" menu, place the cursor in the textbox as if you're about to type
+1. Go to the tack menu, select "Add Tack", and choose the location.
+1. In the resulting "Edit Map Tack" menu, select the icon you want for the tack.
+1. In the "Edit Map Tack" menu, place the cursor in the textbox as if you're about to type.
 
 Once Tacky runs, in order to make a selection, you can either:
 
