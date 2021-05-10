@@ -16,7 +16,7 @@ Before using Tacky to name a tack, make sure you've done the following in _Civil
 1. In the resulting "Edit Map Tack" menu, select the icon you want for the tack.
 1. In the "Edit Map Tack" menu, place the cursor in the textbox as if you're about to type.
 
-![image of Tacky (Districts Tab)](https://i.imgur.com/90Za7GO.jpg)
+![Image of Tacky (Districts Tab)](https://i.imgur.com/90Za7GO.jpg)
 
 Once Tacky runs, in order to make a selection, you can either:
 
@@ -33,7 +33,7 @@ If an improvement is selected and that improvement has no options, then its name
 
 If an improvement is selected and that improvement contains further options, a submenu with the appropriate options will appear. Again, you can click the image, click the name, or press the shortcut key to select the option. Once you do so, a string containing both the improvement and the option will be sent and immediately entered. e.g., if you select "Camp" and then "Deer", the string "Camp - Deer" will be sent and entered.
 
-![Tacky Submenu Image](https://i.imgur.com/V3gJh42.jpg)
+![Image of Tacky Submenu](https://i.imgur.com/V3gJh42.jpg)
 
 <h1>Running Tacky</h1>
 
