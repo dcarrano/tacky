@@ -16,11 +16,13 @@ Before using Tacky to name a tack, make sure you've done the following in _Civil
 1. In the resulting "Edit Map Tack" menu, select the icon you want for the tack.
 1. In the "Edit Map Tack" menu, place the cursor in the textbox as if you're about to type.
 
+![image of Tacky (Districts Tab)](https://i.imgur.com/90Za7GO.jpg)
+
 Once Tacky runs, in order to make a selection, you can either:
 
 * Click on the image that represents the improvement or district;
 * Click on the name of the improvement or district; or
-* Use the appropriate shortcut key. To perform the shortcut, hold down ALT and press the underlined letter in the name of the improvement or district in the Tacky menu. For example, the shortcut for a farm is ALT-F. The shortcut for fishing boats is ALT-B. 
+* Use the appropriate shortcut key. To perform the shortcut, hold down ALT and press the underlined letter in the name of the improvement or district in the Tacky menu. For example, the shortcut for an encampment is ALT-E. The shortcut for an entertainment complex is ALT-X. 
   * Some improvements/districts don't have shortcut keys assigned, but the great majority do.
 
 You can use CTRL-TAB to switch between the "Improvements" and "Districts" menus (or, of course, simply click the appropriate tab).
@@ -30,6 +32,8 @@ Selecting a district type will send to _Civilization 6_ the name of the district
 If an improvement is selected and that improvement has no options, then its name will be sent and immediately entered. For instance, if you select "Lumber Mill", that is simply entered, since lumber mills have no additional options.
 
 If an improvement is selected and that improvement contains further options, a submenu with the appropriate options will appear. Again, you can click the image, click the name, or press the shortcut key to select the option. Once you do so, a string containing both the improvement and the option will be sent and immediately entered. e.g., if you select "Camp" and then "Deer", the string "Camp - Deer" will be sent and entered.
+
+![Tacky Submenu Image](https://i.imgur.com/V3gJh42.jpg)
 
 <h1>Running Tacky</h1>
 
