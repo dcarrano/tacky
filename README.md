@@ -18,7 +18,7 @@ Before using Tacky to name a tack, make sure you've done the following in _Civil
 
 Once Tacky runs, in order to make a selection, you can either:
 
-* Click on the picture that represents the improvement or district;
+* Click on the image that represents the improvement or district;
 * Click on the name of the improvement or district; or
 * Use the appropriate shortcut key. To perform the shortcut, hold down ALT and press the underlined letter in the name of the improvement or district in the Tacky menu. For example, the shortcut for a farm is ALT-F. The shortcut for fishing boats is ALT-B. 
   * Some improvements/districts don't have shortcut keys assigned, but the great majority do.
