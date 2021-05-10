@@ -35,13 +35,13 @@ If an improvement is selected and that improvement contains further options, a s
 
 Tacky expects all files to be in the same directory. So, the easiest thing to do is simply unzip **tacky.zip** into a directory, and run it from that directory. If you insist on changing that, you can alter the "SetWorkingDir" variable at the beginning of the script.
 
-Tacky was written with [AutoHotKey](https://www.autohotkey.com). As such, it requires Windows.
+Tacky was written with [AutoHotkey](https://www.autohotkey.com). As such, it requires Windows.
 
-If you already have AutoHotKey installed, you can run **tacky.ahk** as a script. Alternatively, you can run the **tacky.exe** program, which doesn't require AutoHotKey.
+If you already have AutoHotkey installed, you can run **tacky.ahk** as a script. Alternatively, you can run the **tacky.exe** program, which doesn't require AutoHotKey.
 
 IMPORTANT: Note that, because Tacky will re-route key combinations that you might otherwise use, **its menu will not appear unless _Civilization 6_ is already running**.
 
-If you run the AutoHotKey version, press CTRL-SHIFT-T in order to activate the Tacky menu. 
+If you run the AutoHotkey version, press CTRL-SHIFT-T in order to activate the Tacky menu. 
 
 If you run the executable while _Civilization 6_ is already running, the Tacky menu will appear as soon as you run the .exe. Otherwise, you can also press CTRL-SHIFT-T to activate it. 
 
