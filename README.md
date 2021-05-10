@@ -7,7 +7,7 @@ _Tacky for Civilization 6 (Windows)_
 
 Welcome to Tacky! This program is designed to make it easier for Windows users to name your tacks in _Sid Meier's Civilization 6_.
 
-TL; DR: While _Civilization 6_ is running, hit CTRL-SHIFT-T to bring up a menu to select tack names.
+TL; DR: While _Civilization 6_ is running, press CTRL-SHIFT-T to bring up a menu to select tack names.
 
 <h1>What Tacky Does</h1>
 
@@ -43,7 +43,7 @@ IMPORTANT: Note that, because Tacky will re-route key combinations that you migh
 
 If you run the AutoHotKey version, press CTRL-SHIFT-T in order to activate the Tacky menu. 
 
-If you run the executable while _Civilization 6_ is already running, the Tacky menu will appear as soon as you run the .exe. Otherwise, you can also hit CTRL-SHIFT-T to activate it. 
+If you run the executable while _Civilization 6_ is already running, the Tacky menu will appear as soon as you run the .exe. Otherwise, you can also press CTRL-SHIFT-T to activate it. 
 
 But again, in either case, note that if _Civilization 6_ isn't running, Tacky will not function! The menu will not appear unless _Civilization 6_ is running!
 
